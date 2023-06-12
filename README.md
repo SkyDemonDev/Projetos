@@ -4,5 +4,7 @@
 
 # Sobre meus Projetos
 
-✍ | Bom, ao longo do tempo eu estou desenvolvendo varios projetos e alguns deles serão publicados nesse repositório.
+✍ | Bom, ao longo do tempo eu estou desenvolvendo varios projetos e alguns deles serão publicados para o público.
+
+
 
