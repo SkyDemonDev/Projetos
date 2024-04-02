@@ -2,7 +2,7 @@
 
 # Inicio
 
-👋 | Ola, sou o Sky e sou desenvolvedor web especializado em Back-End e um pouco de Front-End. Minha verdadeira paixão é php e mysql.
+👋 | Ola, sou o Sky e sou desenvolvedor web especializado em Back-End e um pouco de Front-End.
 
 # Meus Projetos
 
